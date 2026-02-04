@@ -46,7 +46,7 @@
         </div>
         
         <div class="border-t border-slate-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p class="text-slate-400 text-sm">© {{ date('Y') }} ScanEatz. Hak Cipta Dilindungi.</p>
+            <p class="text-slate-400 text-sm">© {{ date('Y') }} ScanEatz. Created by <b>Muhammad Rayfan Pashya</b>.</p>
             <div class="flex gap-4">
                 <!-- Social Icons -->
             </div>

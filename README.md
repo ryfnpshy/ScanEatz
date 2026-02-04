@@ -89,4 +89,4 @@ Proyek ini berada di bawah lisensi [MIT](LICENSE).
 
 ---
 
-<p align="center">Dijahit dengan ❤️ menggunakan Laravel.</p>
+<p align="center">Dibuat dengan ❤️ oleh <b>Muhammad Rayfan Pashya</b>.</p>
