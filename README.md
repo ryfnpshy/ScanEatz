@@ -70,7 +70,7 @@ Buka `http://localhost:8000` di browser Anda.
 
 ## 📸 Tampilan Aplikasi
 
-> *Tambahkan screenshot di sini untuk membuat portofolio Anda lebih menarik!*
+![alt text](<project 3 (1).png>) ![alt text](<project 3 (2).png>) ![alt text](<project 3 (3).png>)
 
 ---
 
